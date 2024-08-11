@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": "Overrides broken/unwanted textures with the originals.",
-        "pack_format": 18
+        "pack_format": 34
     }
 }
